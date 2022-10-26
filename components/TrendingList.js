@@ -14,7 +14,7 @@ const TrendingList = () => {
       <div>
         <Image
           className="rounded-[20px]"
-          src="/trending-1.jfif"
+          src="https://lh3.googleusercontent.com/a/ALm5wu3bAxxE-J7f4bOSfTk9GlgEWaNoDHNpwzG-SgUZjA=s96-c"
           height="120px"
           width="120px"
         />
